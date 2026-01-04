@@ -223,7 +223,6 @@ else:
 - **Python 3.9+** (backend)
 - **Node.js 16+** (frontend)  
 - **Webcam** (for video capture)
-````
 
 ### Backend Setup
 
