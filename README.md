@@ -112,8 +112,6 @@ furrow_ratio = inner_brow_distance / eye_width
 
 **What It Is**: Confusion suppresses happiness, so we measure if the student is smiling.
 
-````
-
 ```python
 upper_lip_y = landmarks[13].y
 mouth_corners_y = (landmarks[61].y + landmarks[291].y) / 2
