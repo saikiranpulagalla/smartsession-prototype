@@ -125,10 +125,6 @@ smile_intensity = mouth_corners_y - upper_lip_y
 
 #### **Signal 3: Head Tilt** (20% weight)
 
-People tilt heads when confused (expressing uncertainty).
-
-#### **Signal 3: Head Tilt** (20% weight)
-
 **What It Is**: When confused or questioning, people tilt their heads (universal gesture).
 
 **How I Detect It**:
