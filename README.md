@@ -5,6 +5,7 @@
 A full-stack prototype for detecting student confusion and proctoring integrity during remote exams using computer vision. The system captures student video in real-time, analyzes facial expressions and behavior, and provides a teacher dashboard for live monitoring.
 
 ---
+## Video Demo : https://drive.google.com/file/d/1IMd4VaFZai2iwl-9FiU-BJHv8BBUHVSA/view?usp=sharing
 
 ## 🎯 Overview & Motivation
 
